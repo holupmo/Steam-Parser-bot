@@ -1,4 +1,4 @@
-# 🎮 Steam Hunter Bot
+# 🎮 Steam Parser Bot
 
 **Асинхронный Telegram бот для поиска скидок в Steam**
 
